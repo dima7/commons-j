@@ -7,7 +7,7 @@ import us.harward.commons.cache.Cache;
 /**
  * Enforces maximum number of entries
  * 
- * @author alex
+ * @author alexv
  * @param <K>
  * @param <V>
  */
